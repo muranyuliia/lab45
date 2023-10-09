@@ -1,0 +1,3 @@
+﻿  lab45.cpp
+D:\lab45\lab45\lab45.cpp(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+  lab45.vcxproj -> D:\lab45\lab45\x64\Debug\lab45.exe
